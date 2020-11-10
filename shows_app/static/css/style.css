@@ -1,0 +1,9 @@
+.card {
+    width: 803px;
+    margin: 28px auto;
+}
+button.btn.btn-outline-dark {
+    display: block;
+    margin: 0 auto;
+    width: 589px;
+}
